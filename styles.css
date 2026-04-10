@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color:aliceblue ;
+}
+h1 {
+    text-align: center;
+    background-color: firebrick; 
+    margin: -8px;
+    font-size: 60px;
+}
+h2{
+ 
+    background-color: #C1BE3E;
+    border: double #2FD0BD 10px
+}
+p{
+    font-size: 20px;
+    color: #2600FF;
+}
+
+li{
+    font-size: 20px;
+    color: #2600FF;
+}
+img {
+    width: 300px; height: 300px;
+    border: solid darkred 10px;
+}
